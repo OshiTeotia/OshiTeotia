@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Oshi Teotia</h1>
 
-<!--
-**OshiTeotia/OshiTeotia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Electronics & Communication Engineering undergrad at Nirma University**  
+🔧 Passionate about **real-time systems**, digital design, and hardware-software integration  
+💡 Former Intern at **Institute for Plasma Research**, Gandhinagar  
+🚀 Currently working on FPGA + Python-based projects for practical innovation
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Projects & Interests
+- ✅ FPGA-based waveform generators (Verilog + DAC)
+- 🖥️ Python GUIs to control hardware (Tkinter + UART)
+- 📡 Digital logic, timing analysis, and embedded design
+- 💬 Signal modulation and communication systems
+
+---
+
+### 🌱 Currently Exploring
+- SystemVerilog & VHDL  
+- Git & version control workflows  
+- PCB design & hardware debugging
+
+---
+
+### 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/oshi-teotia)  
+- [GitHub](https://github.com/OshiTeotia)
+
+---
+
+> “Build. Break. Learn. Repeat.” 💡
